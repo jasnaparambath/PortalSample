@@ -1,0 +1,11 @@
+D:\Jasna\Pocs\SampleCoreApp\SampleCoreApp\bin\Debug\netcoreapp2.1\SampleCoreApp.deps.json
+D:\Jasna\Pocs\SampleCoreApp\SampleCoreApp\bin\Debug\netcoreapp2.1\SampleCoreApp.runtimeconfig.json
+D:\Jasna\Pocs\SampleCoreApp\SampleCoreApp\bin\Debug\netcoreapp2.1\SampleCoreApp.runtimeconfig.dev.json
+D:\Jasna\Pocs\SampleCoreApp\SampleCoreApp\bin\Debug\netcoreapp2.1\SampleCoreApp.dll
+D:\Jasna\Pocs\SampleCoreApp\SampleCoreApp\bin\Debug\netcoreapp2.1\SampleCoreApp.pdb
+D:\Jasna\Pocs\SampleCoreApp\SampleCoreApp\obj\Debug\netcoreapp2.1\SampleCoreApp.csprojAssemblyReference.cache
+D:\Jasna\Pocs\SampleCoreApp\SampleCoreApp\obj\Debug\netcoreapp2.1\SampleCoreApp.csproj.CoreCompileInputs.cache
+D:\Jasna\Pocs\SampleCoreApp\SampleCoreApp\obj\Debug\netcoreapp2.1\SampleCoreApp.AssemblyInfoInputs.cache
+D:\Jasna\Pocs\SampleCoreApp\SampleCoreApp\obj\Debug\netcoreapp2.1\SampleCoreApp.AssemblyInfo.cs
+D:\Jasna\Pocs\SampleCoreApp\SampleCoreApp\obj\Debug\netcoreapp2.1\SampleCoreApp.dll
+D:\Jasna\Pocs\SampleCoreApp\SampleCoreApp\obj\Debug\netcoreapp2.1\SampleCoreApp.pdb
